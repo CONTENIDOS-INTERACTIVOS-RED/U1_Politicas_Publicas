@@ -15,19 +15,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'El contexto histórico del rol del Estado en el desarrollo',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Evolución del pensamiento sobre el Estado en el siglo XX',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'La crítica al Estado mínimo y el surgimiento del modelo de Estado eficaz',
             hash: 't_1_2',
           },
         ],
@@ -36,25 +37,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'El Estado en un mundo en transformación: pilares del Informe de 1997',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Pilar 1: Adaptar las funciones del Estado a sus capacidades reales',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Pilar 2: Fortalecer las instituciones públicas',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Pilar 3: Establecer alianzas estratégicas con actores sociales y económicos',
             hash: 't_2_3',
           },
         ],

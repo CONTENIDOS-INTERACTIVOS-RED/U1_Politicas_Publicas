@@ -214,7 +214,7 @@
                 p.mb-0 Contar con herramientas conceptuales para diseñar, implementar y evaluar políticas públicas, con enfoque en derechos humanos y justicia social.
     
     #t_1_2.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.1] La crítica al Estado mínimo y el surgimiento del modelo de Estado eficaz
+      h2 #[span 1.2] La crítica al Estado mínimo y el surgimiento del modelo de Estado eficaz
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
