@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '1',
+    tituloUnidad: 'El rol del Estado en el mundo moderno',
   },
   menuPrincipal: {
     menu: [
@@ -60,27 +60,6 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Título tema',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
-          },
-        ],
-      },
-      {
         nombreRuta: 'sintesis',
         titulo: 'Síntesis',
         desarrolloContenidos: true,
@@ -118,26 +97,118 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Aguilar Villanueva, L. F. (2013). El estudio de las políticas públicas. Editorial Miguel Ángel Porrúa. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/73100?page=80',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Banco Mundial. (1997). El Estado en un mundo en transformación: Informe de 1997 sobre el desarrollo mundial. Grupo Banco Mundial. ',
+      link: 'https://openknowledge.worldbank.org/handle/10986/5980',
+    },
+    {
+      referencia:
+        'Baró Herrera, A. (s.f.). Desarrollo financiero y crecimiento económico: puntos de vista y agenda de investigación. Banco Mundial. ',
+      link:
+        'https://d1wqtxts1xzle7.cloudfront.net/72886339/Desarrollo_financiero_Levine-libre.pdf',
+    },
+    {
+      referencia:
+        'Vargas Arébalo, C. (2007). Planificar, (2007). Planificar , informar e influir en políticas públicas. Ciencia y Sociedad, 10(19), 133-138.  ',
+      link: 'https://www.redalyc.org/pdf/4259/425942453011.pdf',
+    },
+    {
+      referencia:
+        'Thoenig, J. C. (1997). Política pública y acción pública. Gestión y Política Pública, 6(1), 19-37.',
+      link:
+        'https://repositorio-digital.cide.edu/bitstream/handle/11651/3185/TJ_Vol.6_No.I_1sem.pdf ',
+    },
+    {
+      referencia:
+        'Levine, R. E. (1996). Desarrollo financiero y crecimiento económico: puntos de vista y agenda de investigación. Grupo Banco Mundial. ',
+      link:
+        'https://d1wqtxts1xzle7.cloudfront.net/72886339/Desarrollo_financiero_Levine-libre.pdf',
+    },
+    {
+      referencia:
+        'Harguindéguy, J. (2015). Análisis de políticas públicas (2a ed.). Difusora Larousse - Editorial Tecnos. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/115286',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Ajuste estructural',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Conjunto de medidas económicas y fiscales, promovidas por organismos internacionales, para reducir el tamaño del Estado.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Capacidad institucional',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Conjunto de recursos, habilidades y estructuras que permiten al Estado, diseñar e implementar políticas efectivas.',
+    },
+    {
+      termino: 'Carrera administrativa',
+      significado:
+        'Régimen jurídico que regula el acceso, permanencia y promoción de los servidores públicos, con base en el mérito.',
+    },
+    {
+      termino: 'Corrupción',
+      significado:
+        'Uso indebido del poder público para obtener beneficios personales, contrario al interés general.',
+    },
+    {
+      termino: 'Descentralización',
+      significado:
+        'Transferencia de competencias y recursos del gobierno central a entidades territoriales o locales.',
+    },
+    {
+      termino: 'Estado de bienestar',
+      significado:
+        'Modelo de Estado que asume la responsabilidad de garantizar derechos sociales como salud, educación y seguridad social.',
+    },
+    {
+      termino: 'Estado eficaz',
+      significado:
+        'Modelo de gestión pública que ajusta las funciones estatales a su capacidad real, priorizando la eficiencia y la legitimidad.',
+    },
+    {
+      termino: 'Evaluación de políticas',
+      significado:
+        'Proceso sistemático para valorar el diseño, implementación y resultados de una política pública.',
+    },
+    {
+      termino: 'Gobernanza',
+      significado:
+        'Forma de ejercer el poder que involucra a múltiples actores (Estado, sociedad civil, sector privado) en la toma de decisiones.',
+    },
+    {
+      termino: 'Informe de desarrollo mundial 1997',
+      significado:
+        'Documento del banco mundial que propone fortalecer la eficacia del Estado como eje para el desarrollo sostenible.',
+    },
+    {
+      termino: 'Neoliberalismo',
+      significado:
+        'Corriente económica y política que promueve la libre competencia, la privatización y la mínima intervención estatal.',
+    },
+    {
+      termino: 'Participación ciudadana',
+      significado:
+        'Intervención activa de la sociedad civil en la formulación, ejecución y control, de las políticas públicas.',
+    },
+    {
+      termino: 'Políticas públicas',
+      significado:
+        'Conjunto de acciones estratégicas que realiza el Estado para atender problemas sociales y garantizar los derechos.',
+    },
+    {
+      termino: 'Reforma institucional',
+      significado:
+        'Cambio normativo o estructural, orientado a mejorar el funcionamiento y la legitimidad de las instituciones del Estado.',
+    },
+    {
+      termino: 'Rendición de cuentas',
+      significado:
+        'Obligación de las autoridades públicas de informar, justificar y asumir consecuencias por su gestión.',
     },
   ],
 }

@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Título tema'")
+  BannerInterno(:subTitulo="'1. El contexto histórico del rol del Estado en el desarrollo'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     #t_1_1.titulo-segundo(data-aos="flip-up")
