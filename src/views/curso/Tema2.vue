@@ -468,28 +468,32 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál de las siguientes afirmaciones refleja con mayor precisión la propuesta central del Informe sobre el Desarrollo Mundial de 1997?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto:
+                  'El Estado debe intervenir en todos los ámbitos sociales y económicos sin restricciones. ',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto:
+                  'La privatización completa de los servicios públicos mejora automáticamente la eficiencia. ',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'El Estado debe ajustar sus funciones a su capacidad institucional para ser eficaz.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto:
+                  'La reducción del tamaño del Estado es suficiente para lograr el desarrollo.',
                 esCorrecta: false,
               },
             ],
@@ -499,28 +503,32 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Qué función cumple la carrera administrativa en el fortalecimiento institucional del Estado?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto:
+                  'Garantizar la subordinación política del funcionario público. ',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto:
+                  'Asegurar la selección y permanencia del personal público con base en el mérito.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto:
+                  'Permite contratar personal sin criterios de evaluación. ',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto:
+                  'Justifica la rotación frecuente de los cargos públicos.',
                 esCorrecta: false,
               },
             ],
@@ -530,28 +538,30 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Cuál es uno de los efectos negativos identificados en la implementación del modelo de Estado mínimo durante los años 80 y 90?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Aumento del empleo público. ',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Fortalecimiento de los sistemas de salud y educación. ',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'Debilitamiento de las capacidades institucionales del Estado.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto:
+                  'Mayor participación ciudadana en la toma de decisiones.',
                 esCorrecta: false,
               },
             ],
@@ -560,28 +570,30 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Qué propósito tiene la evaluación de políticas públicas, según el enfoque de un Estado eficaz?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Justificar decisiones políticas sin evidencia. ',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto:
+                  'Medir el impacto de las acciones estatales y mejorar su efectividad.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Generar informes internos confidenciales. ',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Promover el gasto sin control.',
                 esCorrecta: false,
               },
             ],
@@ -591,28 +603,29 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál de los siguientes pilares del Informe del Banco Mundial de 1997 está orientado a construir sinergias con actores no estatales?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'Fortalecimiento del aparato burocrático.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Reducción del gasto público.',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'Establecimiento de alianzas estratégicas con la sociedad civil y el sector privado.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Centralización de las decisiones públicas.',
                 esCorrecta: false,
               },
             ],
