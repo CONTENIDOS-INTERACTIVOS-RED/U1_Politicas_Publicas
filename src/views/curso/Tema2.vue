@@ -201,13 +201,7 @@
       h2 #[span 2.2] Pilar 2: Fortalecer las instituciones públicas
     
     p La consolidación de un Estado eficaz, exige no solo el diseño adecuado de políticas, sino también el fortalecimiento de las instituciones responsables de ejecutarlas. Así lo señala el Informe de 1997, sobre el Desarrollo Mundial, que advierte que ningún proceso de desarrollo será sostenible si no se apoya en un sistema institucional sólido. Fortalecer las instituciones públicas se presenta, entonces, como una condición indispensable para garantizar el cumplimiento de los derechos, la equidad social y la estabilidad democrática (Banco Mundial, 1997, p. 24).
-    p.mb-4 A continuación, se presentará una reflexión sobre lo que implica realmente fortalecer una institución pública y las condiciones mínimas necesarias para lograrlo.
 
-    .bg-full-width.bg-fondo-slider.mb-5
-      .p-4.p-md-5
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
